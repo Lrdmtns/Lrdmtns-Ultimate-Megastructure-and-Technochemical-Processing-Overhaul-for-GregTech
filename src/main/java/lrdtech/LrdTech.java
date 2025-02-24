@@ -1,5 +1,6 @@
 package lrdtech;
 
+import com.lrdtech.Tags;
 import net.minecraft.block.Block;
 import net.minecraft.item.Item;
 import net.minecraft.item.crafting.IRecipe;
